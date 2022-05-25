@@ -1,3 +1,4 @@
+future
 numpy==1.19.4
 opencv_python==4.4.0.46
 scikit-image==0.16.2 
