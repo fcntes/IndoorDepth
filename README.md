@@ -22,7 +22,7 @@ pip install -r requirements.txt
 
 Please download preprocessed (sampled in 5 frames) [NYU-Depth-V2](https://drive.google.com/file/d/1WoOZOBpOWfmwe7bknWS5PMUCLBPFKTOw/view?usp=sharing) dataset by [Junjie Hu](https://scholar.google.com/citations?user=nuZZKu4AAAAJ&hl=en&oi=sra) and extract it. 
 
-Extract the superpixels and line segments by excuting
+Extract the superpixels and line segments by excuting. The following steps can be skipped if only testing our pretrained model.
 
 ```
 python preprocess/extract_superpixel.py --data_path data/
