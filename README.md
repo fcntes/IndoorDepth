@@ -51,9 +51,9 @@ We provide pretrained models on NYUv2 datasets. You need to uncompress it and pu
 
 [IndoorDepth model](https://1drv.ms/u/s!AudzvQ6XfIoSkEDosbn0yqRASZZ1?e=q6Vgn4):
 
-| Models      | Abs Rel | Log10 | RMS   | Acc.1 | Acc.2 | Acc.3 |
+|Models      | Abs Rel | Log10 | RMS   | Acc.1 | Acc.2 | Acc.3 |
 | ----------- | ------- | ----- | ----- | ----- | ----- | ----- |
-| ARN         | 0.138   | 0.059 | 0.532 | 0.820 | 0.956 | 0.989 |
+|     [ARN](https://github.com/JiawangBian/sc_depth_pl)     | 0.138   | 0.059 | 0.532 | 0.820 | 0.956 | 0.989 |
 | MonoIndoor  | 0.134   |   -   | 0.526 | 0.823 | 0.958 | 0.989 |
 | **IndoorDepth** | **0.126**   | **0.054** | **0.494** | **0.845** | **0.965** | **0.991** |
 
