@@ -55,7 +55,7 @@ We provide pretrained models on NYUv2 datasets. You need to uncompress it and pu
 | ----------- | ------- | ----- | ----- | ----- | ----- | ----- |
 |     [ARN](https://github.com/JiawangBian/sc_depth_pl)     | 0.138   | 0.059 | 0.532 | 0.820 | 0.956 | 0.989 |
 | MonoIndoor  | 0.134   |   -   | 0.526 | 0.823 | 0.958 | 0.989 |
-| **IndoorDepth** | **0.126**   | **0.054** | **0.494** | **0.845** | **0.965** | **0.991** |
+| **IndoorDepth (Ours)** | **0.126**   | **0.054** | **0.494** | **0.845** | **0.965** | **0.991** |
 
 #### NYU Depth Estimation
 
