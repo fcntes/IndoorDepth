@@ -1,7 +1,7 @@
 # IndoorDepth
 This is a pytorch implementation of **IndoorDepth** for [**Deeper into Self-Supervised Monocular Indoor Depth Estimation**](https://arxiv.org/abs/2312.01283).
 The training codes and pretrained models are available here. 
-It is worth noting that the training codes only support 3 frames of training. If you need to use 5 frames of images as input for training, you need to modify the content in our trainer.py. (For example, from line 312 to line 323)
+It is worth noting that the training codes only support 3 frames of training. If you need to use 5 frames of images as input for training, you need to modify the content in our trainer.py. (For example, from line 312 to line 323).
 
 ## Preparation
 
