@@ -1,6 +1,6 @@
 # IndoorDepth
 This is a pytorch implementation of **IndoorDepth** for **Deeper into Self-Supervised Monocular Indoor Depth Estimation**.
-The testing codes and pretrained models are available here. We will release the training codes in the future.
+The training codes and pretrained models are available here. 
 
 ## Preparation
 
@@ -82,5 +82,12 @@ The project borrows codes from [Monodepth2](https://github.com/nianticlabs/monod
 Please cite our papers if you find our work useful in your research.
 
 ```
-
+@misc{fan2023deeper,
+      title={Deeper into Self-Supervised Monocular Indoor Depth Estimation}, 
+      author={Chao Fan and Zhenyu Yin and Yue Li and Feiqing Zhang},
+      year={2023},
+      eprint={2312.01283},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
 ```
