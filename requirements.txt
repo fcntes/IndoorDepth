@@ -7,3 +7,4 @@ matplotlib==3.3.3
 Pillow==8.2.0
 tensorboardX==2.1
 tqdm
+ipython
