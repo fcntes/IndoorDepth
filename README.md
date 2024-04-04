@@ -7,7 +7,7 @@ It is worth noting that the training codes only support 3 frames of training. If
 
 #### Installation
 
-Install pytorch first by running
+Assuming a fresh Anaconda distribution (with python 3.6), you can Install pytorch first by running 
 
 ```bash
 conda install pytorch=1.5.1 torchvision=0.6.1  cudatoolkit=10.1 -c pytorch
