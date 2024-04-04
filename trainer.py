@@ -19,7 +19,6 @@ import json
 
 from utils import *
 from layers import *
-from inverse_warp import *
 
 import datasets
 import networks
