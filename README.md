@@ -23,7 +23,7 @@ pip install -r requirements.txt
 
 Please download preprocessed (sampled in 5 frames) [NYU-Depth-V2](https://drive.google.com/file/d/1WoOZOBpOWfmwe7bknWS5PMUCLBPFKTOw/view?usp=sharing) dataset by [Junjie Hu](https://scholar.google.com/citations?user=nuZZKu4AAAAJ&hl=en&oi=sra) and extract it. 
 
-Extract the superpixels and line segments by excuting. The following steps can be skipped if only testing our pretrained models.
+Extract the superpixels and line segments by excuting. It's worth noting that line segmentation only requires the installation of any version of opencv-python lower than 3.4.6, i.e. it doesn't have to be version 3.1.0.4. The following steps can be skipped if only testing our pretrained models.
 
 ```
 python preprocess/extract_superpixel.py --data_path data/
